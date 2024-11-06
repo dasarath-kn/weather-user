@@ -1,6 +1,6 @@
 import React from 'react'
 import SideBar from '../components/SideBar'
-import Table from '../components/table'
+import Table from '../components/Table'
 
 const UserPage = () => {
   return (
