@@ -22,6 +22,7 @@ const Weather = () => {
         if (value) {
             setSearchState(value);
         } else {
+            setSearchState('')
             setState("Kozhikode");
         }
     };
